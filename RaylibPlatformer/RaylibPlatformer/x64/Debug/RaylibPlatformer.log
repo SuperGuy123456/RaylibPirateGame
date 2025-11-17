@@ -1,4 +1,151 @@
-﻿  Player.cpp
-  RaylibPlatformer.vcxproj -> D:\C++\RaylibPlatformer\x64\Debug\RaylibPlatformer.exe
+﻿  RaylibPlatformer.cpp
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\NPCs\NormalNPCs\NormalNPC.h(20,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'RaylibPlatformer.cpp')
+  
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\NPCs\NormalNPCs\NormalNPC.h(21,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'RaylibPlatformer.cpp')
+  
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\NPCs\NormalNPCs\NormalNPC.h(33,43): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'RaylibPlatformer.cpp')
+  
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\NPCs\NormalNPCs\NormalNPC.h(77,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'RaylibPlatformer.cpp')
+  
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\NPCs\NormalNPCs\NormalNPC.h(77,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'RaylibPlatformer.cpp')
+  
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\NPCs\NormalNPCs\NormalNPC.h(79,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'RaylibPlatformer.cpp')
+  
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\NPCs\NormalNPCs\NormalNPC.h(79,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'RaylibPlatformer.cpp')
+  
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\RaylibPlatformer.cpp(38,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\RaylibPlatformer.cpp(39,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\RaylibPlatformer.cpp(78,35): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\RaylibPlatformer.cpp(78,35): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\RaylibPlatformer.cpp(78,49): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\RaylibPlatformer.cpp(78,49): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\RaylibPlatformer.cpp(79,45): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\RaylibPlatformer.cpp(79,45): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\RaylibPlatformer.cpp(79,64): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\RaylibPlatformer.cpp(79,64): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\RaylibPlatformer.cpp(102,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\RaylibPlatformer.cpp(102,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\RaylibPlatformer.cpp(130,71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\RaylibPlatformer.cpp(130,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\CoreEngine\InstanceTracker.h(23,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'RaylibPlatformer.cpp')
+  D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\CoreEngine\InstanceTracker.h(23,29):
+  the template instantiation context (the oldest one first) is
+  	D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\NPCs\NormalNPCs\NormalNPC.h(10,39):
+  	see reference to class template instantiation 'AllInstances<NormalNPC>' being compiled
+  	D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\CoreEngine\InstanceTracker.h(20,5):
+  	while compiling class template member function 'AllInstances<NormalNPC>::AllInstances(T *)'
+          with
+          [
+              T=NormalNPC
+          ]
+  		D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\NPCs\NormalNPCs\NormalNPC.h(18,108):
+  		see the first reference to 'AllInstances<NormalNPC>::AllInstances' in 'NormalNPC::NormalNPC'
+  
+  WeaponsHUD.cpp
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\CoreEngine\InstanceTracker.h(23,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Scripts/CoreEngine/UI/WeaponsHUD.cpp')
+  D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\CoreEngine\InstanceTracker.h(23,29):
+  the template instantiation context (the oldest one first) is
+  	D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\CoreEngine\InstanceTracker.h(71,31):
+  	see reference to class template instantiation 'AllInstances<WeaponInstance>' being compiled
+  	D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\CoreEngine\InstanceTracker.h(20,5):
+  	while compiling class template member function 'AllInstances<WeaponInstance>::AllInstances(T *)'
+          with
+          [
+              T=WeaponInstance
+          ]
+  		D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\CoreEngine\InstanceTracker.h(74,51):
+  		see the first reference to 'AllInstances<WeaponInstance>::AllInstances' in 'WeaponInstance::WeaponInstance'
+  
+  MainHandler.cpp
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\MainHandler.cpp(14,21): warning C4930: 'OpeningCutscene openingcutscene(void)': prototyped function not called (was a variable definition intended?)
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\CoreEngine\InstanceTracker.h(23,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Scripts/MainHandler.cpp')
+  D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\CoreEngine\InstanceTracker.h(23,29):
+  the template instantiation context (the oldest one first) is
+  	D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\CoreEngine\InstanceTracker.h(71,31):
+  	see reference to class template instantiation 'AllInstances<WeaponInstance>' being compiled
+  	D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\CoreEngine\InstanceTracker.h(20,5):
+  	while compiling class template member function 'AllInstances<WeaponInstance>::AllInstances(T *)'
+          with
+          [
+              T=WeaponInstance
+          ]
+  		D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\CoreEngine\InstanceTracker.h(74,51):
+  		see the first reference to 'AllInstances<WeaponInstance>::AllInstances' in 'WeaponInstance::WeaponInstance'
+  
+  Player.cpp
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\Player\Player.cpp(32,65): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\Player\Player.cpp(32,65): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\Player\Player.cpp(32,98): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\Player\Player.cpp(32,98): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\Player\Player.cpp(33,66): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\Player\Player.cpp(33,66): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\Player\Player.cpp(33,97): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\Player\Player.cpp(33,97): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\Player\Player.cpp(40,40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\Player\Player.cpp(118,42): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\Player\Player.cpp(118,42): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\Player\Player.cpp(118,47): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\Player\Player.cpp(118,47): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\Player\Player.cpp(123,37): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\Player\Player.cpp(137,42): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\Player\Player.cpp(137,42): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\Player\Player.cpp(137,47): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\Player\Player.cpp(137,47): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\Player\Player.cpp(143,37): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\CoreEngine\InstanceTracker.h(23,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Scripts/Player/Player.cpp')
+  D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\CoreEngine\InstanceTracker.h(23,29):
+  the template instantiation context (the oldest one first) is
+  	D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\CoreEngine\InstanceTracker.h(71,31):
+  	see reference to class template instantiation 'AllInstances<WeaponInstance>' being compiled
+  	D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\CoreEngine\InstanceTracker.h(20,5):
+  	while compiling class template member function 'AllInstances<WeaponInstance>::AllInstances(T *)'
+          with
+          [
+              T=WeaponInstance
+          ]
+  		D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\CoreEngine\InstanceTracker.h(74,51):
+  		see the first reference to 'AllInstances<WeaponInstance>::AllInstances' in 'WeaponInstance::WeaponInstance'
+  
+  Flintlock.cpp
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\Weapons\SpecificWeapons\Flintlock.cpp(18,37): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\Weapons\SpecificWeapons\Flintlock.cpp(18,37): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\Weapons\SpecificWeapons\Flintlock.cpp(18,55): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\Weapons\SpecificWeapons\Flintlock.cpp(18,55): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\Weapons\SpecificWeapons\Flintlock.cpp(19,28): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\Weapons\SpecificWeapons\Flintlock.cpp(19,28): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\Weapons\SpecificWeapons\Flintlock.cpp(19,33): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\Weapons\SpecificWeapons\Flintlock.cpp(19,33): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\Weapons\SpecificWeapons\Flintlock.cpp(19,54): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\Weapons\SpecificWeapons\Flintlock.cpp(19,54): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\Weapons\SpecificWeapons\Flintlock.cpp(19,76): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\Weapons\SpecificWeapons\Flintlock.cpp(19,76): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\CoreEngine\InstanceTracker.h(23,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Scripts/Weapons/SpecificWeapons/Flintlock.cpp')
+  D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\CoreEngine\InstanceTracker.h(23,29):
+  the template instantiation context (the oldest one first) is
+  	D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\Weapons\SpecificWeapons\Flintlock.h(7,61):
+  	see reference to class template instantiation 'AllInstances<Flintlock>' being compiled
+  	D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\CoreEngine\InstanceTracker.h(20,5):
+  	while compiling class template member function 'AllInstances<Flintlock>::AllInstances(T *)'
+          with
+          [
+              T=Flintlock
+          ]
+  		D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\Weapons\SpecificWeapons\Flintlock.cpp(5,114):
+  		see the first reference to 'AllInstances<Flintlock>::AllInstances' in 'Flintlock::Flintlock'
+  
+  Generating Code...
+  RaylibPlatformer.vcxproj -> D:\C++\RaylibPirateGame\RaylibPlatformer\x64\Debug\RaylibPlatformer.exe
   'pwsh.exe' is not recognized as an internal or external command,
   operable program or batch file.

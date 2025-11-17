@@ -127,13 +127,36 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Scripts\Containers\Chest\Chest.cpp" />
+    <ClCompile Include="Scripts\CoreEngine\InstanceTracker.cpp" />
+    <ClCompile Include="Scripts\Object.cpp" />
+    <ClCompile Include="Scripts\Weapons\SpecificWeapons\Flintlock.cpp" />
+    <ClCompile Include="Scripts\Weapons\GunClass\Gun.cpp" />
+    <ClCompile Include="Scripts\Camera\Camera.cpp" />
+    <ClCompile Include="Scripts\MainHandler.cpp" />
+    <ClCompile Include="Scripts\Cutscenes\OpeningCutscene.cpp" />
     <ClCompile Include="RaylibPlatformer.cpp" />
     <ClCompile Include="Scripts\Player\Player.cpp" />
     <ClCompile Include="Scripts\Ship\Ship.cpp" />
+    <ClCompile Include="Scripts\Weapons\Weapon.cpp" />
+    <ClCompile Include="Scripts\CoreEngine\UI\WeaponsHUD.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Scripts\Containers\Chest\Chest.h" />
+    <ClInclude Include="Scripts\CoreEngine\InstanceTracker.h" />
+    <ClInclude Include="AllIncludes.h" />
+    <ClInclude Include="Scripts\NPCs\NormalNPCs\NormalNPC.h" />
+    <ClInclude Include="Scripts\Object.h" />
+    <ClInclude Include="Scripts\Weapons\SpecificWeapons\Flintlock.h" />
+    <ClInclude Include="Scripts\Weapons\GunClass\Gun.h" />
+    <ClInclude Include="Scripts\Camera\Camera.h" />
+    <ClInclude Include="Fonts\Fonts.h" />
+    <ClInclude Include="Scripts\MainHandler.h" />
+    <ClInclude Include="Scripts\Cutscenes\OpeningCutscene.h" />
     <ClInclude Include="Scripts\Player\Player.h" />
     <ClInclude Include="Scripts\Ship\Ship.h" />
+    <ClInclude Include="Scripts\Weapons\Weapon.h" />
+    <ClInclude Include="Scripts\CoreEngine\UI\WeaponsHUD.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

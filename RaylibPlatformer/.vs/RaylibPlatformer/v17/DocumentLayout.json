@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\u002B\u002B\\RaylibPirateGame\\RaylibPlatformer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B16C70-373D-4444-95D9-EEC0FE3A1FCA}|RaylibPlatformer\\RaylibPlatformer.vcxproj|D:\\C\u002B\u002B\\RaylibPirateGame\\RaylibPlatformer\\RaylibPlatformer\\RaylibPlatformer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6B16C70-373D-4444-95D9-EEC0FE3A1FCA}|RaylibPlatformer\\RaylibPlatformer.vcxproj|solutionrelative:RaylibPlatformer\\RaylibPlatformer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B16C70-373D-4444-95D9-EEC0FE3A1FCA}|RaylibPlatformer\\RaylibPlatformer.vcxproj|D:\\C\u002B\u002B\\RaylibPirateGame\\RaylibPlatformer\\RaylibPlatformer\\Scripts\\CoreEngine\\InstanceTracker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6B16C70-373D-4444-95D9-EEC0FE3A1FCA}|RaylibPlatformer\\RaylibPlatformer.vcxproj|solutionrelative:RaylibPlatformer\\Scripts\\CoreEngine\\InstanceTracker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B16C70-373D-4444-95D9-EEC0FE3A1FCA}|RaylibPlatformer\\RaylibPlatformer.vcxproj|D:\\C\u002B\u002B\\RaylibPirateGame\\RaylibPlatformer\\RaylibPlatformer\\Scripts\\Player\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6B16C70-373D-4444-95D9-EEC0FE3A1FCA}|RaylibPlatformer\\RaylibPlatformer.vcxproj|solutionrelative:RaylibPlatformer\\Scripts\\Player\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B16C70-373D-4444-95D9-EEC0FE3A1FCA}|RaylibPlatformer\\RaylibPlatformer.vcxproj|D:\\C\u002B\u002B\\RaylibPirateGame\\RaylibPlatformer\\RaylibPlatformer\\Scripts\\Player\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6B16C70-373D-4444-95D9-EEC0FE3A1FCA}|RaylibPlatformer\\RaylibPlatformer.vcxproj|solutionrelative:RaylibPlatformer\\Scripts\\Player\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B16C70-373D-4444-95D9-EEC0FE3A1FCA}|RaylibPlatformer\\RaylibPlatformer.vcxproj|D:\\C\u002B\u002B\\RaylibPirateGame\\RaylibPlatformer\\RaylibPlatformer\\Scripts\\Weapons\\SpecificWeapons\\Flintlock.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6B16C70-373D-4444-95D9-EEC0FE3A1FCA}|RaylibPlatformer\\RaylibPlatformer.vcxproj|solutionrelative:RaylibPlatformer\\Scripts\\Weapons\\SpecificWeapons\\Flintlock.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B16C70-373D-4444-95D9-EEC0FE3A1FCA}|RaylibPlatformer\\RaylibPlatformer.vcxproj|D:\\C\u002B\u002B\\RaylibPirateGame\\RaylibPlatformer\\RaylibPlatformer\\Scripts\\CoreEngine\\UI\\WeaponsHUD.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6B16C70-373D-4444-95D9-EEC0FE3A1FCA}|RaylibPlatformer\\RaylibPlatformer.vcxproj|solutionrelative:RaylibPlatformer\\Scripts\\CoreEngine\\UI\\WeaponsHUD.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B16C70-373D-4444-95D9-EEC0FE3A1FCA}|RaylibPlatformer\\RaylibPlatformer.vcxproj|D:\\C\u002B\u002B\\RaylibPirateGame\\RaylibPlatformer\\RaylibPlatformer\\Scripts\\Weapons\\SpecificWeapons\\Flintlock.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6B16C70-373D-4444-95D9-EEC0FE3A1FCA}|RaylibPlatformer\\RaylibPlatformer.vcxproj|solutionrelative:RaylibPlatformer\\Scripts\\Weapons\\SpecificWeapons\\Flintlock.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B16C70-373D-4444-95D9-EEC0FE3A1FCA}|RaylibPlatformer\\RaylibPlatformer.vcxproj|D:\\C\u002B\u002B\\RaylibPirateGame\\RaylibPlatformer\\RaylibPlatformer\\Scripts\\Weapons\\Weapon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6B16C70-373D-4444-95D9-EEC0FE3A1FCA}|RaylibPlatformer\\RaylibPlatformer.vcxproj|solutionrelative:RaylibPlatformer\\Scripts\\Weapons\\Weapon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B16C70-373D-4444-95D9-EEC0FE3A1FCA}|RaylibPlatformer\\RaylibPlatformer.vcxproj|D:\\C\u002B\u002B\\RaylibPirateGame\\RaylibPlatformer\\RaylibPlatformer\\Scripts\\Weapons\\Weapon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6B16C70-373D-4444-95D9-EEC0FE3A1FCA}|RaylibPlatformer\\RaylibPlatformer.vcxproj|solutionrelative:RaylibPlatformer\\Scripts\\Weapons\\Weapon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B16C70-373D-4444-95D9-EEC0FE3A1FCA}|RaylibPlatformer\\RaylibPlatformer.vcxproj|D:\\C\u002B\u002B\\RaylibPirateGame\\RaylibPlatformer\\RaylibPlatformer\\Scripts\\Weapons\\GunClass\\Gun.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6B16C70-373D-4444-95D9-EEC0FE3A1FCA}|RaylibPlatformer\\RaylibPlatformer.vcxproj|solutionrelative:RaylibPlatformer\\Scripts\\Weapons\\GunClass\\Gun.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B16C70-373D-4444-95D9-EEC0FE3A1FCA}|RaylibPlatformer\\RaylibPlatformer.vcxproj|D:\\C\u002B\u002B\\RaylibPirateGame\\RaylibPlatformer\\RaylibPlatformer\\Scripts\\Weapons\\GunClass\\Gun.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6B16C70-373D-4444-95D9-EEC0FE3A1FCA}|RaylibPlatformer\\RaylibPlatformer.vcxproj|solutionrelative:RaylibPlatformer\\Scripts\\Weapons\\GunClass\\Gun.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B16C70-373D-4444-95D9-EEC0FE3A1FCA}|RaylibPlatformer\\RaylibPlatformer.vcxproj|D:\\C\u002B\u002B\\RaylibPirateGame\\RaylibPlatformer\\RaylibPlatformer\\Scripts\\CoreEngine\\InstanceTracker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6B16C70-373D-4444-95D9-EEC0FE3A1FCA}|RaylibPlatformer\\RaylibPlatformer.vcxproj|solutionrelative:RaylibPlatformer\\Scripts\\CoreEngine\\InstanceTracker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B16C70-373D-4444-95D9-EEC0FE3A1FCA}|RaylibPlatformer\\RaylibPlatformer.vcxproj|D:\\C\u002B\u002B\\RaylibPirateGame\\RaylibPlatformer\\RaylibPlatformer\\Scripts\\Containers\\Chest\\Chest.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6B16C70-373D-4444-95D9-EEC0FE3A1FCA}|RaylibPlatformer\\RaylibPlatformer.vcxproj|solutionrelative:RaylibPlatformer\\Scripts\\Containers\\Chest\\Chest.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B16C70-373D-4444-95D9-EEC0FE3A1FCA}|RaylibPlatformer\\RaylibPlatformer.vcxproj|D:\\C\u002B\u002B\\RaylibPirateGame\\RaylibPlatformer\\RaylibPlatformer\\Scripts\\Containers\\Chest\\Chest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6B16C70-373D-4444-95D9-EEC0FE3A1FCA}|RaylibPlatformer\\RaylibPlatformer.vcxproj|solutionrelative:RaylibPlatformer\\Scripts\\Containers\\Chest\\Chest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C\u002B\u002B\\RaylibPirateGame\\RaylibPlatformer\\RaylibPlatformer\\images\\Weapons\\Flintlock\\FlintlockOut.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RaylibPlatformer\\images\\Weapons\\Flintlock\\FlintlockOut.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C\u002B\u002B\\RaylibPirateGame\\RaylibPlatformer\\RaylibPlatformer\\images\\Weapons\\Flintlock\\Flintlockammo.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RaylibPlatformer\\images\\Weapons\\Flintlock\\Flintlockammo.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C\u002B\u002B\\RaylibPirateGame\\RaylibPlatformer\\RaylibPlatformer\\images\\Weapons\\Flintlock\\Flintlock.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RaylibPlatformer\\images\\Weapons\\Flintlock\\Flintlock.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C\u002B\u002B\\RaylibPirateGame\\RaylibPlatformer\\RaylibPlatformer\\images\\UI\\GunHUD.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RaylibPlatformer\\images\\UI\\GunHUD.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RaylibPlatformer.cpp",
+              "DocumentMoniker": "D:\\C\u002B\u002B\\RaylibPirateGame\\RaylibPlatformer\\RaylibPlatformer\\RaylibPlatformer.cpp",
+              "RelativeDocumentMoniker": "RaylibPlatformer\\RaylibPlatformer.cpp",
+              "ToolTip": "D:\\C\u002B\u002B\\RaylibPirateGame\\RaylibPlatformer\\RaylibPlatformer\\RaylibPlatformer.cpp",
+              "RelativeToolTip": "RaylibPlatformer\\RaylibPlatformer.cpp",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAAACwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-01T00:17:41.431Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.h",
+              "DocumentMoniker": "D:\\C\u002B\u002B\\RaylibPirateGame\\RaylibPlatformer\\RaylibPlatformer\\Scripts\\Player\\Player.h",
+              "RelativeDocumentMoniker": "RaylibPlatformer\\Scripts\\Player\\Player.h",
+              "ToolTip": "D:\\C\u002B\u002B\\RaylibPirateGame\\RaylibPlatformer\\RaylibPlatformer\\Scripts\\Player\\Player.h",
+              "RelativeToolTip": "RaylibPlatformer\\Scripts\\Player\\Player.h",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADsAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-11T21:05:48.381Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "D:\\C\u002B\u002B\\RaylibPirateGame\\RaylibPlatformer\\RaylibPlatformer\\Scripts\\Player\\Player.cpp",
+              "RelativeDocumentMoniker": "RaylibPlatformer\\Scripts\\Player\\Player.cpp",
+              "ToolTip": "D:\\C\u002B\u002B\\RaylibPirateGame\\RaylibPlatformer\\RaylibPlatformer\\Scripts\\Player\\Player.cpp",
+              "RelativeToolTip": "RaylibPlatformer\\Scripts\\Player\\Player.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-29T01:16:22.873Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Weapon.cpp",
+              "DocumentMoniker": "D:\\C\u002B\u002B\\RaylibPirateGame\\RaylibPlatformer\\RaylibPlatformer\\Scripts\\Weapons\\Weapon.cpp",
+              "RelativeDocumentMoniker": "RaylibPlatformer\\Scripts\\Weapons\\Weapon.cpp",
+              "ToolTip": "D:\\C\u002B\u002B\\RaylibPirateGame\\RaylibPlatformer\\RaylibPlatformer\\Scripts\\Weapons\\Weapon.cpp",
+              "RelativeToolTip": "RaylibPlatformer\\Scripts\\Weapons\\Weapon.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-07T01:27:45.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FlintlockOut.png",
+              "DocumentMoniker": "D:\\C\u002B\u002B\\RaylibPirateGame\\RaylibPlatformer\\RaylibPlatformer\\images\\Weapons\\Flintlock\\FlintlockOut.png",
+              "RelativeDocumentMoniker": "RaylibPlatformer\\images\\Weapons\\Flintlock\\FlintlockOut.png",
+              "ToolTip": "D:\\C\u002B\u002B\\RaylibPirateGame\\RaylibPlatformer\\RaylibPlatformer\\images\\Weapons\\Flintlock\\FlintlockOut.png",
+              "RelativeToolTip": "RaylibPlatformer\\images\\Weapons\\Flintlock\\FlintlockOut.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-02-07T01:13:57.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Flintlockammo.png",
+              "DocumentMoniker": "D:\\C\u002B\u002B\\RaylibPirateGame\\RaylibPlatformer\\RaylibPlatformer\\images\\Weapons\\Flintlock\\Flintlockammo.png",
+              "RelativeDocumentMoniker": "RaylibPlatformer\\images\\Weapons\\Flintlock\\Flintlockammo.png",
+              "ToolTip": "D:\\C\u002B\u002B\\RaylibPirateGame\\RaylibPlatformer\\RaylibPlatformer\\images\\Weapons\\Flintlock\\Flintlockammo.png",
+              "RelativeToolTip": "RaylibPlatformer\\images\\Weapons\\Flintlock\\Flintlockammo.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-02-07T01:13:52.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Flintlock.png",
+              "DocumentMoniker": "D:\\C\u002B\u002B\\RaylibPirateGame\\RaylibPlatformer\\RaylibPlatformer\\images\\Weapons\\Flintlock\\Flintlock.png",
+              "RelativeDocumentMoniker": "RaylibPlatformer\\images\\Weapons\\Flintlock\\Flintlock.png",
+              "ToolTip": "D:\\C\u002B\u002B\\RaylibPirateGame\\RaylibPlatformer\\RaylibPlatformer\\images\\Weapons\\Flintlock\\Flintlock.png",
+              "RelativeToolTip": "RaylibPlatformer\\images\\Weapons\\Flintlock\\Flintlock.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-02-07T01:13:42.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Flintlock.h",
+              "DocumentMoniker": "D:\\C\u002B\u002B\\RaylibPirateGame\\RaylibPlatformer\\RaylibPlatformer\\Scripts\\Weapons\\SpecificWeapons\\Flintlock.h",
+              "RelativeDocumentMoniker": "RaylibPlatformer\\Scripts\\Weapons\\SpecificWeapons\\Flintlock.h",
+              "ToolTip": "D:\\C\u002B\u002B\\RaylibPirateGame\\RaylibPlatformer\\RaylibPlatformer\\Scripts\\Weapons\\SpecificWeapons\\Flintlock.h",
+              "RelativeToolTip": "RaylibPlatformer\\Scripts\\Weapons\\SpecificWeapons\\Flintlock.h",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACIAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-03T01:07:38.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Gun.cpp",
+              "DocumentMoniker": "D:\\C\u002B\u002B\\RaylibPirateGame\\RaylibPlatformer\\RaylibPlatformer\\Scripts\\Weapons\\GunClass\\Gun.cpp",
+              "RelativeDocumentMoniker": "RaylibPlatformer\\Scripts\\Weapons\\GunClass\\Gun.cpp",
+              "ToolTip": "D:\\C\u002B\u002B\\RaylibPirateGame\\RaylibPlatformer\\RaylibPlatformer\\Scripts\\Weapons\\GunClass\\Gun.cpp",
+              "RelativeToolTip": "RaylibPlatformer\\Scripts\\Weapons\\GunClass\\Gun.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-07T01:28:15.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Weapon.h",
+              "DocumentMoniker": "D:\\C\u002B\u002B\\RaylibPirateGame\\RaylibPlatformer\\RaylibPlatformer\\Scripts\\Weapons\\Weapon.h",
+              "RelativeDocumentMoniker": "RaylibPlatformer\\Scripts\\Weapons\\Weapon.h",
+              "ToolTip": "D:\\C\u002B\u002B\\RaylibPirateGame\\RaylibPlatformer\\RaylibPlatformer\\Scripts\\Weapons\\Weapon.h",
+              "RelativeToolTip": "RaylibPlatformer\\Scripts\\Weapons\\Weapon.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-07T01:29:15.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeaponsHUD.h",
+              "DocumentMoniker": "D:\\C\u002B\u002B\\RaylibPirateGame\\RaylibPlatformer\\RaylibPlatformer\\Scripts\\CoreEngine\\UI\\WeaponsHUD.h",
+              "RelativeDocumentMoniker": "RaylibPlatformer\\Scripts\\CoreEngine\\UI\\WeaponsHUD.h",
+              "ToolTip": "D:\\C\u002B\u002B\\RaylibPirateGame\\RaylibPlatformer\\RaylibPlatformer\\Scripts\\CoreEngine\\UI\\WeaponsHUD.h",
+              "RelativeToolTip": "RaylibPlatformer\\Scripts\\CoreEngine\\UI\\WeaponsHUD.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-07T01:53:02.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GunHUD.png",
+              "DocumentMoniker": "D:\\C\u002B\u002B\\RaylibPirateGame\\RaylibPlatformer\\RaylibPlatformer\\images\\UI\\GunHUD.png",
+              "RelativeDocumentMoniker": "RaylibPlatformer\\images\\UI\\GunHUD.png",
+              "ToolTip": "D:\\C\u002B\u002B\\RaylibPirateGame\\RaylibPlatformer\\RaylibPlatformer\\images\\UI\\GunHUD.png",
+              "RelativeToolTip": "RaylibPlatformer\\images\\UI\\GunHUD.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-02-07T01:38:14.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Flintlock.cpp",
+              "DocumentMoniker": "D:\\C\u002B\u002B\\RaylibPirateGame\\RaylibPlatformer\\RaylibPlatformer\\Scripts\\Weapons\\SpecificWeapons\\Flintlock.cpp",
+              "RelativeDocumentMoniker": "RaylibPlatformer\\Scripts\\Weapons\\SpecificWeapons\\Flintlock.cpp",
+              "ToolTip": "D:\\C\u002B\u002B\\RaylibPirateGame\\RaylibPlatformer\\RaylibPlatformer\\Scripts\\Weapons\\SpecificWeapons\\Flintlock.cpp",
+              "RelativeToolTip": "RaylibPlatformer\\Scripts\\Weapons\\SpecificWeapons\\Flintlock.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-06T01:19:08.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Gun.h",
+              "DocumentMoniker": "D:\\C\u002B\u002B\\RaylibPirateGame\\RaylibPlatformer\\RaylibPlatformer\\Scripts\\Weapons\\GunClass\\Gun.h",
+              "RelativeDocumentMoniker": "RaylibPlatformer\\Scripts\\Weapons\\GunClass\\Gun.h",
+              "ToolTip": "D:\\C\u002B\u002B\\RaylibPirateGame\\RaylibPlatformer\\RaylibPlatformer\\Scripts\\Weapons\\GunClass\\Gun.h",
+              "RelativeToolTip": "RaylibPlatformer\\Scripts\\Weapons\\GunClass\\Gun.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-02T22:55:43.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Chest.h",
+              "DocumentMoniker": "D:\\C\u002B\u002B\\RaylibPirateGame\\RaylibPlatformer\\RaylibPlatformer\\Scripts\\Containers\\Chest\\Chest.h",
+              "RelativeDocumentMoniker": "RaylibPlatformer\\Scripts\\Containers\\Chest\\Chest.h",
+              "ToolTip": "D:\\C\u002B\u002B\\RaylibPirateGame\\RaylibPlatformer\\RaylibPlatformer\\Scripts\\Containers\\Chest\\Chest.h",
+              "RelativeToolTip": "RaylibPlatformer\\Scripts\\Containers\\Chest\\Chest.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwA8AAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-17T01:54:36.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Chest.cpp",
+              "DocumentMoniker": "D:\\C\u002B\u002B\\RaylibPirateGame\\RaylibPlatformer\\RaylibPlatformer\\Scripts\\Containers\\Chest\\Chest.cpp",
+              "RelativeDocumentMoniker": "RaylibPlatformer\\Scripts\\Containers\\Chest\\Chest.cpp",
+              "ToolTip": "D:\\C\u002B\u002B\\RaylibPirateGame\\RaylibPlatformer\\RaylibPlatformer\\Scripts\\Containers\\Chest\\Chest.cpp",
+              "RelativeToolTip": "RaylibPlatformer\\Scripts\\Containers\\Chest\\Chest.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-17T01:55:35.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InstanceTracker.cpp",
+              "DocumentMoniker": "D:\\C\u002B\u002B\\RaylibPirateGame\\RaylibPlatformer\\RaylibPlatformer\\Scripts\\CoreEngine\\InstanceTracker.cpp",
+              "RelativeDocumentMoniker": "RaylibPlatformer\\Scripts\\CoreEngine\\InstanceTracker.cpp",
+              "ToolTip": "D:\\C\u002B\u002B\\RaylibPirateGame\\RaylibPlatformer\\RaylibPlatformer\\Scripts\\CoreEngine\\InstanceTracker.cpp",
+              "RelativeToolTip": "RaylibPlatformer\\Scripts\\CoreEngine\\InstanceTracker.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-07T01:17:33.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InstanceTracker.h",
+              "DocumentMoniker": "D:\\C\u002B\u002B\\RaylibPirateGame\\RaylibPlatformer\\RaylibPlatformer\\Scripts\\CoreEngine\\InstanceTracker.h",
+              "RelativeDocumentMoniker": "RaylibPlatformer\\Scripts\\CoreEngine\\InstanceTracker.h",
+              "ToolTip": "D:\\C\u002B\u002B\\RaylibPirateGame\\RaylibPlatformer\\RaylibPlatformer\\Scripts\\CoreEngine\\InstanceTracker.h",
+              "RelativeToolTip": "RaylibPlatformer\\Scripts\\CoreEngine\\InstanceTracker.h",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAEYAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-06T02:37:34.571Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,3 +1,13 @@
-D:\C++\RaylibPlatformer\RaylibPlatformer\RaylibPlatformer.cpp;D:\C++\RaylibPlatformer\RaylibPlatformer\x64\Debug\RaylibPlatformer.obj
-D:\C++\RaylibPlatformer\RaylibPlatformer\Scripts\Player\Player.cpp;D:\C++\RaylibPlatformer\RaylibPlatformer\x64\Debug\Player.obj
-D:\C++\RaylibPlatformer\RaylibPlatformer\Scripts\Ship\Ship.cpp;D:\C++\RaylibPlatformer\RaylibPlatformer\x64\Debug\Ship.obj
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\Containers\Chest\Chest.cpp;D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\x64\Debug\Chest.obj
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\CoreEngine\InstanceTracker.cpp;D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\x64\Debug\InstanceTracker.obj
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\Object.cpp;D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\x64\Debug\Object.obj
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\Weapons\SpecificWeapons\Flintlock.cpp;D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\x64\Debug\Flintlock.obj
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\Weapons\GunClass\Gun.cpp;D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\x64\Debug\Gun.obj
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\Camera\Camera.cpp;D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\x64\Debug\Camera.obj
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\MainHandler.cpp;D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\x64\Debug\MainHandler.obj
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\Cutscenes\OpeningCutscene.cpp;D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\x64\Debug\OpeningCutscene.obj
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\RaylibPlatformer.cpp;D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\x64\Debug\RaylibPlatformer.obj
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\Player\Player.cpp;D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\x64\Debug\Player.obj
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\Ship\Ship.cpp;D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\x64\Debug\Ship.obj
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\Weapons\Weapon.cpp;D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\x64\Debug\Weapon.obj
+D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\Scripts\CoreEngine\UI\WeaponsHUD.cpp;D:\C++\RaylibPirateGame\RaylibPlatformer\RaylibPlatformer\x64\Debug\WeaponsHUD.obj
